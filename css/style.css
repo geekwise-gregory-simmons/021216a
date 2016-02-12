@@ -1,0 +1,68 @@
+html{
+    width:90%;
+    height:100%;
+    margin:0 auto;
+    padding: 0;
+    font-size: 62.5;
+    box-sizing: border-box;
+}
+body{
+    
+    background-color: yellow;
+    font-size: 20px;
+    
+} 
+header{
+    
+    
+    height:35px;
+    margin:0;
+    padding:0;
+    border:solid 5px;
+    box-sizing: border-box;
+    background-color: red;
+    color: whitesmoke;
+    text-align: center;
+    
+    
+    
+}
+section{
+    
+    height:220px;
+    margin: 0;
+    padding: 0;
+    background-color: green;
+    text-align: center;
+    
+    }
+#sec2{
+    
+    height:150px;
+    margin: 0;
+    padding: 0;
+    background:blue;
+    color:wheat
+    
+}
+#sec3{
+    
+    height:140px;
+    margin:0;
+    padding:0;
+    background-color: purple;
+    
+}
+footer{
+    
+    height:100px;
+    margin:0;
+    padding:0;
+    background-color: pink;
+        
+}
+    
+
+
+
+

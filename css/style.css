@@ -48,6 +48,14 @@ section{
     color:wheat
     
 }
+#img2 {
+    float:right;
+    padding:20px;
+}
+#img3{
+    float: left;
+    padding: 20px
+}
 #sec3{
     
     height:140px;

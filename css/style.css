@@ -29,13 +29,25 @@ header{
 }
 section{
     
-    height:220px;
+    height:320px;
     margin: 0;
-    padding: 0;
+    padding:0;
     background-color: green;
     text-align: center;
     
     }
+#img{
+    margin-top:20px; 
+}
+#img2{
+    float:right;
+    margin: 20px;
+    }
+#img3{
+    float:left;
+    margin:20px;
+    
+}
 #sec2{
     
     height:150px;
